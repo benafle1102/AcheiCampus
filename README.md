@@ -143,6 +143,8 @@ O quadro de acompanhamento será denominado **AcheiCampus — Backlog**, com as 
 
 Todas as dez histórias iniciarão na coluna Backlog, conforme a ordem de prioridade apresentada.
 
+[Acessar o quadro AcheiCampus — Backlog](https://github.com/users/benafle1102/projects/2)
+
 ## 12. Entrega
 
 O repositório deverá conter:
