@@ -3,7 +3,7 @@
 **Disciplina:** Engenharia de Software II — Senac  
 **Aluno:** Benafle Soares da Hora  
 **Professor:** Rafael  
-**Modalidade:** Projeto individual
+
 
 ## 1. Descrição do produto
 
